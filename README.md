@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 - Python  
-- Anaconda (Jupyter / Spyder)  
+- Anaconda (Jupyter Notebook)
 
 ---
 
